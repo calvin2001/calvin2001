@@ -1,12 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════
-  GitHub Profile README Template
-
-  [ 채우는 법 ]
-  1. 에디터에서 {{USERNAME}} 을 전부 찾아 본인 깃허브 아이디로 바꾸세요. (Ctrl+H)
-  2. 나머지 {{ }} 부분도 순서대로 채우면 됩니다.
-  3. 필요 없는 섹션은 --- 구분선까지 통째로 지우세요. 비워두는 것보다 낫습니다.
-  4. <!-- -- > 로 감싼 줄은 화면에 보이지 않는 주석입니다. 안내를 읽고 지우세요.
-═══════════════════════════════════════════════════════════ -->
 
 
 <!-- ───────────── HEADER ─────────────
@@ -17,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Haewoon%20Kim&fontFamily=Georgia&fontSize=64&fontAlignY=44&fontColor=ffffff&animation=fadeIn&desc=Welcome%20to%20my%20journey⛵&descSize=17&descAlignY=68" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=react&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Haewoon%20Kim&fontFamily=Georgia&fontSize=64&fontAlignY=44&fontColor=ffffff&animation=fadeIn&desc=Welcome%20to%20my%20journey⛵&descSize=17&descAlignY=68" width="100%" />
 
 ### AI/RL Researcher & AI Engineer
 
