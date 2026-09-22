@@ -25,9 +25,6 @@
 
 <!-- 연락처 배지. 쓰지 않는 줄은 삭제하세요. -->
 <a href="mailto:hersis0219@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="www.linkedin.com/in/
-haewoon-kim-891a06260
-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
