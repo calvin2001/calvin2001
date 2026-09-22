@@ -19,15 +19,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Haewoon%20Kim&fontFamily=Georgia&fontSize=64&fontAlignY=44&fontColor=ffffff&animation=fadeIn&desc=Welcome%20to%20my%20journey!&descSize=17&descAlignY=68" width="100%" />
 
-### {{한 줄 정체성 — 예: AI Researcher & Builder}}
+### AI/RL Researcher & AI Engineer
 
-`{{키워드1}}` · `{{키워드2}}` · `{{키워드3}}` · `{{키워드4}}`
+`Reinforcement Learning` · `Behavior Cloning` · `AI Engineering`
 
 <!-- 연락처 배지. 쓰지 않는 줄은 삭제하세요. -->
-<a href="mailto:{{EMAIL}}"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="{{BLOG_URL}}"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="{{LINKEDIN_URL}}"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username={{USERNAME}}&style=flat-square&color=blue" />
+<a href="mailto:hersis0219@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="www.linkedin.com/in/
+haewoon-kim-891a06260
+"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=calvin2001&style=flat-square&color=blue" />
 
 </div>
 
