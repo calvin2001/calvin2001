@@ -1,3 +1,13 @@
+<!-- ═══════════════════════════════════════════════════════════
+  GitHub Profile README Template
+
+  [ 채우는 법 ]
+  1. 에디터에서 {{USERNAME}} 을 전부 찾아 본인 깃허브 아이디로 바꾸세요. (Ctrl+H)
+  2. 나머지 {{ }} 부분도 순서대로 채우면 됩니다.
+  3. 필요 없는 섹션은 --- 구분선까지 통째로 지우세요. 비워두는 것보다 낫습니다.
+  4. <!-- -- > 로 감싼 줄은 화면에 보이지 않는 주석입니다. 안내를 읽고 지우세요.
+═══════════════════════════════════════════════════════════ -->
+
 
 <!-- ───────────── HEADER ─────────────
   color= 뒤 16진수 값만 바꾸면 배너 색이 바뀝니다. (0:시작색,100:끝색)
@@ -7,17 +17,16 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Haewwon Kim&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=&descSize=17&descAlignY=64" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text={{NAME}}&fontSize=64&fontColor=ffffff&animation=fadeIn&desc={{ONE_LINE_TAGLINE}}&descSize=17&descAlignY=64" width="100%" />
 
-### AI/RL Researcher & AI Engineer
+### {{한 줄 정체성 — 예: AI Researcher & Builder}}
 
-`Reinforcement Learning` · `Behavior Cloning` · `AI Engineering`
+`{{키워드1}}` · `{{키워드2}}` · `{{키워드3}}` · `{{키워드4}}`
 
 <!-- 연락처 배지. 쓰지 않는 줄은 삭제하세요. -->
-<a href="mailto:hersis0219@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="www.linkedin.com/in/
-haewoon-kim-891a06260
-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:{{EMAIL}}"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="{{BLOG_URL}}"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="{{LINKEDIN_URL}}"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username={{USERNAME}}&style=flat-square&color=blue" />
 
 </div>
