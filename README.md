@@ -1,11 +1,3 @@
-
-
-<!-- ───────────── HEADER ─────────────
-  color= 뒤 16진수 값만 바꾸면 배너 색이 바뀝니다. (0:시작색,100:끝색)
-  type= 에는 waving / rect / slice / soft 등을 넣을 수 있습니다.
-  텍스트에 띄어쓰기는 %20, & 는 %26 으로 써야 합니다.
------------------------------------- -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:0b1c3d,50:16325c,100:2d6cb0&height=200&section=header&text=Haewoon%20Kim&fontFamily=Georgia&fontSize=64&fontAlignY=44&fontColor=ffffff&animation=fadeIn&desc=Welcome%20to%20my%20journey⛵&descSize=17&descAlignY=68" width="100%" />
@@ -14,8 +6,7 @@
 
 `Reinforcement Learning` · `Behavior Cloning` · `Deep Learning`
 
-<!-- 연락처 배지. 쓰지 않는 줄은 삭제하세요. -->
-<a href="mailto:hersis0219@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+📫 [hersis0219@gmail.com](mailto:hersis0219@gmail.com)
 
 </div>
 
@@ -45,7 +36,6 @@
 
 ## 🏆 Awards
 
-<!-- 없으면 이 섹션 전체를 지우세요. 억지로 채우면 티가 납니다. -->
 
 | Award | Where | Date |
 |:--|:--|:--:|
