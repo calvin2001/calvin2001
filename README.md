@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text={{NAME}}&fontSize=64&fontColor=ffffff&animation=fadeIn&desc={{ONE_LINE_TAGLINE}}&descSize=17&descAlignY=64" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Haewoon Kim&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=&descSize=17&descAlignY=64" width="100%" />
 
 ### {{한 줄 정체성 — 예: AI Researcher & Builder}}
 
