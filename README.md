@@ -45,7 +45,7 @@
 | Project | Description | Stack |
 |:--|:--|:--|
 | [**lerobot-bc-first-policy**](https://github.com/calvin2001/lerobot-bc-first-policy) | Behavior cloning policy pipeline, built with the LeRobot framework | `PyTorch` `LeRobot` |
-| [**chest_xray_pneumonia**](https://github.com/calvin2001/chest-xray-pneumonia) | A CNN baseline that classifies pneumonia from chest X-ray images | `PyTorch` `CNN` |
+| [**chest-xray-pneumonia**](https://github.com/calvin2001/chest-xray-pneumonia) | A CNN baseline that classifies pneumonia from chest X-ray images | `PyTorch` `CNN` |
 | [**credit-card-fraud-detection**](https://github.com/calvin2001/credit-card-fraud-detection) | Card fraud detection under extreme class imbalance | `scikit-learn` `Imbalanced` |
 | [**predictive-maintenance-rul**](https://github.com/calvin2001/predictive-maintenance-rul) | A regression model predicting remaining useful life (RUL) from sensor time series | `Time-Series` `Regression` |
 
