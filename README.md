@@ -4,7 +4,7 @@
 
 ### AI/RL Researcher & AI Engineer
 
-`Reinforcement Learning` · `Behavior Cloning` · `Deep Learning`
+`Reinforcement Learning`  · `Deep Learning` · `Behavior Cloning`
 
 📫 [hersis0219@gmail.com](mailto:hersis0219@gmail.com)
 
