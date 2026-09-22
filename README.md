@@ -45,13 +45,13 @@ haewoon-kim-891a06260
 
 ## 🚀 Featured Projects
 
-| Project | 한 줄 소개 | Stack |
+| Project | Description | Stack |
 |:--|:--|:--|
-| [**reinforcement_learning_from_basics**](https://github.com/calvin2001/reinforcement_learning_from_basics) | 바닥부터 다시 구현하며 정리하는 강화학습 학습 기록 | `RL` `NumPy` |
-| [**lerobot-bc-first-policy**](https://github.com/calvin2001/lerobot-bc-first-policy) | LeRobot 프레임워크로 구현한 첫 Behavior Cloning 정책 학습 파이프라인 | `PyTorch` `LeRobot` |
-| [**chest_xray_pneumonia**](https://github.com/calvin2001/chest_xray_pneumonia) | 흉부 X-ray 영상에서 폐렴 여부를 분류하는 CNN 베이스라인 | `PyTorch` `CNN` |
-| [**credit-card-fraud-detection**](https://github.com/calvin2001/credit-card-fraud-detection) | 극단적 클래스 불균형 환경에서의 카드 이상거래 탐지 | `scikit-learn` `Imbalanced` |
-| [**predictive-maintenance-rul**](https://github.com/calvin2001/predictive-maintenance-rul) | 센서 시계열로 장비 잔여수명(RUL)을 예측하는 회귀 모델 | `Time-Series` `Regression` |
+| [**reinforcement_learning_from_basics**](https://github.com/calvin2001/reinforcement_learning_from_basics) | A study log of reinforcement learning, reimplemented from the ground up | `RL` `NumPy` |
+| [**lerobot-bc-first-policy**](https://github.com/calvin2001/lerobot-bc-first-policy) | Behavior cloning policy pipeline, built with the LeRobot framework | `PyTorch` `LeRobot` |
+| [**chest_xray_pneumonia**](https://github.com/calvin2001/chest_xray_pneumonia) | A CNN baseline that classifies pneumonia from chest X-ray images | `PyTorch` `CNN` |
+| [**credit-card-fraud-detection**](https://github.com/calvin2001/credit-card-fraud-detection) | Card fraud detection under extreme class imbalance | `scikit-learn` `Imbalanced` |
+| [**predictive-maintenance-rul**](https://github.com/calvin2001/predictive-maintenance-rul) | A regression model predicting remaining useful life (RUL) from sensor time series | `Time-Series` `Regression` |
 
 ---
 
@@ -86,9 +86,10 @@ haewoon-kim-891a06260
 ---
 
 
-## 📝 Notes & Writing
+## ✍️ Notes & Writing
 
-- 📚 [paper-reading-log](https://github.com/calvin2001/paper-reading-log)
+- 📝 [Reinforcement Learning from Basics](https://github.com/calvin2001/reinforcement_learning_from_basics) — chapter-by-chapter notes on *바닥부터 배우는 강화학습*
+- 📝 [paper-reading-log](https://github.com/calvin2001/paper-reading-log) — notes on papers I read
 
 ---
 
