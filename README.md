@@ -56,6 +56,6 @@
 
 *Thanks for visiting!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:0b1c3d,50:16325c,100:2d6cb0&section=footer" width="100%" />
 
 </div>
