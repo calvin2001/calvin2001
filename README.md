@@ -39,14 +39,14 @@
 
 | Award | Where | Date |
 |:--|:--|:--:|
-| 🥇 **1st Machine Learning Competition 2nd Prize** | SeoulTech AICOSS | 2026.04 |
+| 🥇 **2026 1st Machine Learning Competition 2nd Prize** | SeoulTech AICOSS | 2026.04 |
 
 ---
 
 
 ## ✍️ Notes & Writing
 
-- 📝 [Reinforcement Learning from Basics](https://github.com/calvin2001/reinforcement_learning_from_basics) — chapter-by-chapter notes on *바닥부터 배우는 강화학습*
+- 📝 [Reinforcement Learning from Basics](https://github.com/calvin2001/reinforcement-learning-from-basics) — chapter-by-chapter notes on *바닥부터 배우는 강화학습*
 - 📝 [paper-reading-log](https://github.com/calvin2001/paper-reading-log) — notes on papers I read
 
 ---
