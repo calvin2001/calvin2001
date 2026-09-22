@@ -63,25 +63,6 @@
 ---
 
 
-## 📊 GitHub Stats
-
-<!-- username= 뒤만 본인 아이디로 바꾸면 자동으로 그려집니다.
-     theme 후보: tokyonight / dark / radical / gruvbox / catppuccin_mocha / transparent -->
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=calvin2001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calvin2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=calvin2001&theme=tokyonight&hide_border=true&background=00000000" />
-
-</div>
-
----
-
-
 ## ✍️ Notes & Writing
 
 - 📝 [Reinforcement Learning from Basics](https://github.com/calvin2001/reinforcement_learning_from_basics) — chapter-by-chapter notes on *바닥부터 배우는 강화학습*
