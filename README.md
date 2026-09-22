@@ -39,7 +39,7 @@
 
 | Award | Where | Date |
 |:--|:--|:--:|
-| 🥇 **2026 1st Machine Learning Competition 2nd Prize** | SeoulTech AICOSS | 2026.04 |
+| 🏅 **2026 1st Machine Learning Competition 2nd Prize** | SeoulTech AICOSS | 2026.04 |
 
 ---
 
