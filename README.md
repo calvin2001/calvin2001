@@ -34,7 +34,7 @@
 ## 👋 About Me
 
 - 🎓 **ITM Major**, Seoul National University of Science and Technology(SeoulTech) & Northumbria University Newcastle
-- 💼 **Undergraduate Reseacher**, Applied Stochastic Modeling Lab, SeoulTech *(2026.09 - present)*
+- 💼 **Undergraduate Reseach Intern**, Applied Stochastic Modeling Lab, SeoulTech *(2026.09 - present)*
 - 🎯 **Focused on Reinforcement Learning and Deep Learning**
 - 📍 **Seoul, Republic of Korea**
 
