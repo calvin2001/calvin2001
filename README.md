@@ -1,4 +1,4 @@
-<!-- ═══════════════════════════════════════════════════════════
+<img width="1098" height="1221" alt="image" src="https://github.com/user-attachments/assets/d51fd425-3054-4f7e-b53f-40bcaef5dd69" /><!-- ═══════════════════════════════════════════════════════════
   GitHub Profile README Template
 
   [ 채우는 법 ]
@@ -17,16 +17,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text={{NAME}}&fontSize=64&fontColor=ffffff&animation=fadeIn&desc={{ONE_LINE_TAGLINE}}&descSize=17&descAlignY=64" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Haewwon Kim&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=&descSize=17&descAlignY=64" width="100%" />
 
-### {{한 줄 정체성 — 예: AI Researcher & Builder}}
+### AI/RL Researcher & AI Engineer
 
-`{{키워드1}}` · `{{키워드2}}` · `{{키워드3}}` · `{{키워드4}}`
+`Reinforcement Learning` · `Behavior Cloning` · `AI Engineering`
 
 <!-- 연락처 배지. 쓰지 않는 줄은 삭제하세요. -->
-<a href="mailto:{{EMAIL}}"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="{{BLOG_URL}}"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="{{LINKEDIN_URL}}"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:hersis0219@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="www.linkedin.com/in/
+haewoon-kim-891a06260
+"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username={{USERNAME}}&style=flat-square&color=blue" />
 
 </div>
