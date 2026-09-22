@@ -47,7 +47,6 @@ haewoon-kim-891a06260
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| [**reinforcement_learning_from_basics**](https://github.com/calvin2001/reinforcement_learning_from_basics) | A study log of reinforcement learning, reimplemented from the ground up | `RL` `NumPy` |
 | [**lerobot-bc-first-policy**](https://github.com/calvin2001/lerobot-bc-first-policy) | Behavior cloning policy pipeline, built with the LeRobot framework | `PyTorch` `LeRobot` |
 | [**chest_xray_pneumonia**](https://github.com/calvin2001/chest_xray_pneumonia) | A CNN baseline that classifies pneumonia from chest X-ray images | `PyTorch` `CNN` |
 | [**credit-card-fraud-detection**](https://github.com/calvin2001/credit-card-fraud-detection) | Card fraud detection under extreme class imbalance | `scikit-learn` `Imbalanced` |
