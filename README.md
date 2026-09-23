@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:0b1c3d,50:16325c,100:2d6cb0&height=200&section=header&text=Haewoon%20Kim&fontFamily=Georgia&fontSize=64&fontAlignY=44&fontColor=ffffff&animation=fadeIn&desc=Welcome%20to%20my%20journey⛵&descSize=17&descAlignY=68" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&&color=0:0b1c3d,50:16325c,100:2d6cb0&height=200&section=header&text=Haewoon%20Kim&fontFamily=Georgia&fontSize=64&fontAlignY=44&fontColor=ffffff&animation=fadeIn&desc=Welcome%20to%20my%20journey⛵&descSize=17&descAlignY=68" width="100%" />
 
 ### AI Researcher & AI/ML Engineer
 
